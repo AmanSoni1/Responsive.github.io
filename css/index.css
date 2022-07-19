@@ -58,6 +58,12 @@ h4,h5 {
     text-decoration: none;
     color: white;
 }
+a {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
 .und {
     flex-basis: 100%;
     margin-top: 10px;
