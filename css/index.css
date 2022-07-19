@@ -107,16 +107,16 @@ h4,h5 {
     }
     .right-c { order: 1;}
     .left-c h4,h5 {
-        font-size: 6.5px;
+        font-size: 5px;
     }
     p {
-        font-size: 6px;
+        font-size: 5px;
         word-wrap: break-word;
     }
     .right-c {
         background-color: transparent;
         position: relative;
-        left: 25%;
+        left: 25%; 
         bottom: 90px;
         z-index: 2;
     }
@@ -126,7 +126,14 @@ h4,h5 {
     .but {
         margin: 0 25%;
     }
-    .fa-brands {
-        margin: 15px 6px;
+    .but a {
+        font-size: 8px;
     }
+    .fa-brands {
+        margin: 15px 5px;
+        font-size: 6px;
+    }
+     .fa-atom,.fa-building-columns {
+        font-size: 4.5px;
+    } 
 }
