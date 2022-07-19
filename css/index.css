@@ -60,9 +60,7 @@ h4,h5 {
 }
 a {
     text-decoration: none;
-}
-a:visited {
-    text-decoration: none;
+    color: inherit;
 }
 .und {
     flex-basis: 100%;
